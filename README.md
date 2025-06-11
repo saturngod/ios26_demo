@@ -6,3 +6,6 @@ Just testing around new Tab bar and Toolbar. Nothing special.
 
 
 ![](./screenshots/pic2.png)
+
+
+![](./screenshots/pic3.png)
